@@ -1,6 +1,6 @@
 # Huffman Coding
 
-This repository contains my implementation of Huffman coding in python, which is used for lossless data compression.
+This repository contains my implementation of Huffman coding in Python, which is used for lossless data compression.
 
 ## Key Files
 
