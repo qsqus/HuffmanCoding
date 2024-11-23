@@ -1,4 +1,4 @@
-from huffman import HuffmanCoding
+from huffman_coding import HuffmanCoding
 
 
 if __name__ == '__main__':

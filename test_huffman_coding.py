@@ -1,8 +1,8 @@
 import unittest
-from huffman import HuffmanCoding
+from huffman_coding import HuffmanCoding
 
 
-class TestHuffman(unittest.TestCase):
+class TestHuffmanCoding(unittest.TestCase):
     @classmethod
     def setUpClass(cls):
         cls.huffman_coding = HuffmanCoding()
